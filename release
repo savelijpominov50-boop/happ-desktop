@@ -1,0 +1,72 @@
+{
+  "app":"happ_desktop",
+  "filenum": 39,
+  "linux": {
+    "block": [],
+    "beta": {},
+    "stable": {}
+  },
+  "macos": {
+    "block": [],
+    "beta": {},
+    "stable": {}
+  },
+  "windows": {
+    "block": [
+	  "2.4.0",
+	  "2.2.0",
+	  "2.1.0",
+	  "2.0.6",
+	  "2.0.5",
+	  "2.0.3",
+	  "2.0.2",
+	  "2.0.1",
+	  "2.0.0",
+	  "1.5.2",
+	  "1.5.1",
+	  "1.4.9",
+	  "1.4.7",
+	  "1.4.5",
+	  "1.4.2",
+	  "1.4.0",
+	  "1.2.6",
+	  "1.2.4",
+	  "1.2.2",
+	  "1.2.0",
+	  "1.1.0",
+	  "1.0.0",
+	  "0.7.1",
+	  "0.7.0",
+	  "0.6.0",
+	  "0.5.6",
+	  "0.5.5",
+	  "0.5.0",
+	  "0.4.6",
+	  "0.4.1",
+	  "0.4.0",
+	  "0.3.7",
+	  "0.3.6",
+	  "0.3.5",
+      "0.3.0",
+	  "0.2.6"
+    ],
+    "beta": {
+      "version": "2.16.2",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.16.2/setup-Happ.x64.exe",
+      "details": "-Improved per-app proxy rules\n-Improved Hysteria2 server pings\n-Improved sleep/resume handling so the TUN tunnel",
+      "update": {
+        "warnalways": "0.3.2",
+        "updateonly": "1.0.1"
+      }
+    },
+    "stable": {
+      "version": "2.16.2",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.16.2/setup-Happ.x64.exe",
+      "details": "-Improved per-app proxy rules\n-Improved Hysteria2 server pings\n-Improved sleep/resume handling so the TUN tunnel",
+      "update": {
+        "warnalways": "0.3.2",
+        "updateonly": "1.0.1"
+      }
+    }
+  }
+}
